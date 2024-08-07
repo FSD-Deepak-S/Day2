@@ -1,0 +1,19 @@
+Variables
+Operators
+Datatypes
+Alert,prompt,confirm
+
+
+
+Arthmetic , assignment , conditional , logical
+
+
+Datatypes
+    Primitive   Non Primitive
+    string      object
+    number      Array
+    boolean     Function
+    null
+    undefined
+    bigint
+    symbol
